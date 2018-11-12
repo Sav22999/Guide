@@ -2,7 +2,7 @@
  
 
 ### Linee guida per la revisione ed esempio pratico
-https://github.com/Sav22999/Articoli-Post-mozilla-italia/blob/voice-web/common%20voice/Linee%20guida%20revisione%20Common%20Voice.md
+https://github.com/Sav22999/Guide/blob/master/Mozilla%20Italia/Common%20Voice/Linee%20guida%20revisione%20Common%20Voice.md
 
 ---------------------------
 
