@@ -1,5 +1,4 @@
 # AGGIUNGERE NUOVE FRASI, REVISIONARE QUELLE GIA' PRESENTI SU COMMON VOICE O SEGNALARE ERRORI
- 
 
 ### Linee guida per la revisione ed esempio pratico
 https://github.com/Sav22999/Guide/blob/master/Mozilla%20Italia/Common%20Voice/Linee%20guida%20revisione%20Common%20Voice.md
@@ -8,6 +7,15 @@ https://github.com/Sav22999/Guide/blob/master/Mozilla%20Italia/Common%20Voice/Li
 
 In questa guida vedremo come è possibile, facilmente, aggiungere nuove frasi su Common Voice o revisionare quelle già presenti. 
 Piccola nota: le revisioni, prima di essere pubblicate, vengono ulteriormente revisionate dai moderatori (generalmente da @Mte90 o da @Sav22999).
+
+### Donare frasi
+
+Se si intende donare un intero documento di proprietà personale (deve essere sotto licenza CC0) è possibile farlo in maniera molto semplice.
+Infatti, è sufficiente disporre del file ODT/DOCX (**assolutamente no PDF**) e inviarlo tramite Telegram a @Mte90 o @Sav2299.
+E' possibile anche creare un proprio repository dedicato nel quale specificare la licenza CC0 e inserirci il documento. Quindi condividere il link ai soggetti sopra riportati.
+Per qualunque dubbio, domanda o altro è possibile chiedere informazioni nei gruppi ufficiali Mozilla Italia (Telegram)<sup>*</sup>, nel forum (forum.mozillaitalia.org) o in privato (su Telegram a @Mte90 o @Sav22999).
+
+<sup>*</sup> I link ai gruppi Telegram ufficiali si trovano facilmente sul canale @mozItaHub
 
 ### Aggiungere frasi
 
