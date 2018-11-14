@@ -23,6 +23,7 @@ Si noti anche che, prima della pubblicazione effettiva, le frasi vengono ugualme
  18. NON INSERIRE DOPPI SPAZI
  19. NON INSERIRE "!!!!!!!!!!!!" (come spesso accade in inglese), MA USARE UN SINOGLO "!" (O, A MASSIMO TRE CONSECUTIVI VICINI, "!!!")
  20. NON SCRIVERE TUTTA LA FRASE IN MAIUSCOLO (SONO ESCLUSI NOMI PROPRI E LE INIZIALI DELLE FRASI)
+ 21. RIMUOVERE I SITI WEB (DOMINI/URL)
  
  
  ### Esempio pratico
