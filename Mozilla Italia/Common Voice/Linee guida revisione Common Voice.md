@@ -24,6 +24,9 @@ Si noti anche che, prima della pubblicazione effettiva, le frasi vengono ugualme
  19. NON INSERIRE "!!!!!!!!!!!!" (come spesso accade in inglese), MA USARE UN SINOGLO "!" (O, A MASSIMO TRE CONSECUTIVI VICINI, "!!!")
  20. NON SCRIVERE TUTTA LA FRASE IN MAIUSCOLO (SONO ESCLUSI NOMI PROPRI E LE INIZIALI DELLE FRASI)
  21. RIMUOVERE I SITI WEB (DOMINI/URL) -> NEL CASO IN CUI SIA NECESSARIO SPECIFICARE QUALCOSA USARE "SITO WEB DEDICATO/RELATIVO" (E SINONIMI DI QUESTO TIPO)
+22. Niente numeri scritti in cifre:  riportare la corrispondente "pronuncia" (**numeri scritti in lettere**)
+23. Non usare i seguenti simboli: < > + * \ # @ ^ ( ) [ ] /
+24. Non utilizzare abbreviazioni
  
  
  ### Esempio pratico
