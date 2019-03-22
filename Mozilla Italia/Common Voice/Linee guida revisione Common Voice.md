@@ -46,7 +46,7 @@ Per qualunque ulteriore chiarimento o dubbi contattare @Sav22999 su Telegram o c
 
 20. Niente numeri scritti in cifre:  riportare la corrispondente "pronuncia" (**numeri scritti in lettere**)
 
-21. Non usare i seguenti simboli: < > + * \ # @ ^ ( ) [ ] /
+21. Non usare i seguenti simboli: < > + * \ / # @ ^ ( ) [ ] { }
 
 22. Non utilizzare abbreviazioni
 
