@@ -2,55 +2,61 @@
 
 Per qualunque ulteriore chiarimento o dubbi contattare @Sav22999 su Telegram o chiedere nel gruppo **[Home](https://t.me/joinchat/BCql3UMy26nl4qxuRecDsQ)** di Telegram.
 
- 1. Lunghezza massima frase: 125 caratteri. Meglio ancora se si arriva massimo a 100 caratteri
+ 1. Lunghezza massima frase: 125 caratteri. Meglio ancora se si arriva massimo a 100 caratteri ✔️
 
- 2. Lunghezza minima frase: 1 carattere
+ 2. Lunghezza minima frase: 1 carattere ✔️
 
- 3. Ogni frase deve avere senso compiuto (letta “da sola”)
+ 3. Ogni frase deve avere senso compiuto (letta “da sola”)  🚫
 
- 4. Iniziale di ogni frase maiuscola
+ 4. Iniziale di ogni frase maiuscola 🔶
 
- 5. Se una frase presenta più di un punto ‘.’ (quello finale), dividerla in più frasi
+ 5. Se una frase presenta più di un punto ‘.’ (quello finale), dividerla in più frasi ✔️
 
- 6. Rimuovere parole ed espressioni offensive o (strettamente) dialettali
+ 6. Rimuovere parole ed espressioni offensive o (strettamente) dialettali 🚫
 
- 7. Non devono esserci frasi duplicate
+ 7. Non devono esserci frasi duplicate 🚫
 
- 8. Evitare di iniziare (tutte) le frasi con ‘E’ o ‘Che’
+ 8. Evitare di iniziare (tutte) le frasi con ‘E’ o ‘Che’ 🔶
 
- 9. Rimuovere le parentesi ‘()’: formare nuove frasi con il contenuto delle parentesi o, comunque, sostituirle con le semplici virgole ‘,’
+ 9. Rimuovere le parentesi ‘()’: formare nuove frasi con il contenuto delle parentesi o, comunque, sostituirle con le semplici virgole ‘,’ ✔️
 
- 10. Sostituire le virgolette direzionate (sia singole sia doppie): “ ” con " e ‘ ’ con '
+ 10. Sostituire le virgolette direzionate (sia singole sia doppie): “ ” con " e ‘ ’ con ' ✔️
 
- 11. Se un’intera frase è una citazione, **non** bisogna includerla tra le virgolette
+ 11. Se un’intera frase è una citazione, **non** bisogna includerla tra le virgolette 🔶
 
- 12. Sostituire i termini di lingua straniera (principalmente anglosassoni)  **non comuni** in italiano, con termini simili/equivalente italiani
+ 12. Sostituire i termini di lingua straniera (principalmente anglosassoni)  **non comuni** in italiano, con termini simili/equivalente italiani 🔶
 
- 13. Inserire il punto ‘.’ alla fine di **ogni** frase (in alternativa sono accettati anche ‘!’ e “?”)
+ 13. Inserire il punto ‘.’ alla fine di **ogni** frase (in alternativa sono accettati anche ‘!’ e “?”) 🔶
 
- 14. Se l’iniziale della frase è una ‘è’, utilizzare la corrispondente lettera maiuscola corretta: **È** (*non É*)
+ 14. Se l’iniziale della frase è una ‘è’, utilizzare la corrispondente lettera maiuscola corretta: **È** (*non É*) ✔️
 
- 15. Correggere la punteggiatura, se necessario, affinché la frase assuma una lettura univoca
+ 15. Correggere la punteggiatura, se necessario, affinché la frase assuma una lettura univoca 🚫
 
- 16. Non inserire doppi spazi
+ 16. Non inserire doppi spazi ✔️
 
- 17. Non inserire molti ‘!’ consecutivi, ne basta uno singolo
+ 17. Non inserire molti ‘!’ consecutivi, ne basta uno singolo 🔶
 
- 18. Non scrivere **tutta** la frase in maiuscola, ma solo le iniziali della parole _necessarie_ [^1]
+ 18. Non scrivere **tutta** la frase in maiuscola, ma solo le iniziali della parole _necessarie_ [^1]  🔶
 
      [^1]: Generalmente le parole in maiuscolo sono: iniziale della frase, nomi propri, …
 
      
 
- 19. Rimuovere siti web (domini/URL); al loro posto è possibile usare espressioni del tipo *sito web dedicato*, *sito web relativo*, …
+ 19. Rimuovere siti web (domini/URL); al loro posto è possibile usare espressioni del tipo *sito web dedicato*, *sito web relativo*, … 🔶
 
-20. Niente numeri scritti in cifre:  riportare la corrispondente "pronuncia" (**numeri scritti in lettere**)
+20. Niente numeri scritti in cifre:  riportare la corrispondente "pronuncia" (**numeri scritti in lettere**) ✔️
 
-21. Non usare i seguenti simboli: < > + * \ / # @ ^ ( ) [ ] { }
+21. Non usare i seguenti simboli: < > + * \ / # @ ^ ( ) [ ] { } ✔️
 
-22. Non utilizzare abbreviazioni
+22. Non utilizzare abbreviazioni ✔️
 
+✔️: Regola controllata e gestita dal [Sentence Collector](https://common-voice.github.io/sentence-collector/#/)
 
+🔶: Regola attualmente **non** gestita
+
+🚫: Regola **non** gestibile
+
+**N.B.**: il tool non è infallibile, perciò si consiglia di revisionare le frasi bene, anche in autonomia, prima di inserirle, per evitare spiacevoli inconvenienti.
 
 
  ### Esempio pratico
