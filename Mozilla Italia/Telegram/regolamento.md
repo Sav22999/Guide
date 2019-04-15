@@ -78,4 +78,4 @@ Per sbloccare un utente digitare in chat privata: "utente sblocca *USERID*".
 ## Cap.6 - Identificare gli utenti spam
 Queste sono solo alcune indicazioni che potrebbero risultare, tuttavia, false in taluni casi.
 In genere gli utenti spam hanno un nome utente "strano". Formato da lettere messe puramente a caso o da nomi stranieri. Molte volte, invece, **non hanno** username.
-In generale, gli utenti spam, non hanno immagine del profilo o evidentemente esplicita.
+In generale, gli utenti spam, non hanno immagine del profilo o è evidentemente esplicita.
