@@ -1,5 +1,5 @@
 # Regolamento
-Versione: 1.1 del 17-03-2018
+Versione: 1.2 del 15-04-2018
 ------------------------------
 **Indice**:
  - Cap.1 - Per iniziare
@@ -7,7 +7,8 @@ Versione: 1.1 del 17-03-2018
  - Cap.3 - Parole/Frasi/Simboli vietati
  - Cap.4 - Per gli utenti verificati
  - Cap.5 - Per gli admin
- - Cap.6 - Identificare gli utenti spam
+ - Cap.6 - Per gli utenti bloccati
+ - Cap.7 - Identificare gli utenti spam
 -----------------------------
 ## Cap.1 - Per iniziare
  Mozilla Italia ti dà il benvenuto nei suoi gruppi e canali ufficiali.
@@ -18,7 +19,10 @@ Versione: 1.1 del 17-03-2018
  Una volta mostrato il regolamento sarà possibile inviare messaggi di solo testo (no link!), altrimenti verranno automaticamente eliminati.
  Una volta che un altro utente già verificato si è accertato (con sicurezza!) che l'utente appena entrato non è un utente-spam può tranquillamente "Confermare" la sua identità.
  Da questo momento l'utente può inviare qualunque genere di messaggio (nel rispetto del presente regolamento).
- **Notare**: il messaggio viene mostrato SOLO nel primo gruppo in cui si entra, perciò se l'indentità non è stata confermata non è possibile farlo da altri gruppi.
+
+>  **Notare**: il messaggio viene mostrato SOLO nel primo gruppo in cui si entra, perciò se l'indentità non è stata confermata non è possibile farlo da altri gruppi.
+>
+> Per mostrare nuovamente il messaggio, anche in un gruppo diverso dal primo, è possibile inviare un messaggio contenente **solo** il seguente comando: <code>/benvenuto</code>
 
  In caso di violazione del regolamento si procederà nella maniera più opportuna, arrivando anche al totale ban.
 
@@ -75,7 +79,21 @@ Per procedere al ban (manuale) **non** bisogna utilizzare l'opzione di Telegram 
  **Ricordare** che è necessario ANCHE sbloccare l'utente da chat privata, altrimenti rimane nella SpamList e, quando cercherà di entrare nei gruppi, verrà nuovamente cacciato.
 Per sbloccare un utente digitare in chat privata: "utente sblocca *USERID*".
 
-## Cap.6 - Identificare gli utenti spam
+## Cap.6 - Per gli utenti bloccati
+
+Se credi di essere stato bloccato per errore, puoi inviare una segnalazione tramite chat privata dal bot (<code>@mozita_antispam_bot</code>):
+
+1. Digita <code>/start</code> 
+1. Premi sul bottone <code>Segnala il possibile errore(da cambiare questo bottone)</code> del messaggio visualizzato
+
+Gli amministratori effettueranno tutte le dovute verifiche.
+
+> **Il messaggio di segnalazione può essere inviato una singola volta.**
+
+Nel caso ci sia stato un errore, verrai sbloccato e potrai unirti nuovamente ai gruppi di Mozilla Italia. In caso contrario, invece, rimarrai nello stato di **Bloccato/Utente spam** e, quindi, non potrai entrare più nei gruppi comunitari.
+
+## Cap.7 - Identificare gli utenti spam
+
 Queste sono solo alcuni indicazioni che potrebbero risultare, tuttavia, false in taluni casi.
 In genere gli utenti spam hanno un nome utente "strano". Formato da lettere messe puramente a caso o da nomi stranieri. Molte volte, invece, **non hanno** username.
 In generale, gli utenti spam, non hanno immagine del profilo o è poco consona con il contesto, quindi molto esplicita.
