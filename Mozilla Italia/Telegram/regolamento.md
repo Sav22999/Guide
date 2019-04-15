@@ -23,14 +23,14 @@ Versione: 1.1 del 17-03-2018
  In caso di violazione del regolamento si procederà nella maniera più opportuna, arrivando anche al totale ban.
 
  **Importante**: le liste sono le medesime in ciascun gruppo Mozilla Italia. Questo significa che, se un utente è confermato nel "Gruppo X", lo sarà anche nel "Gruppo Y".
- Quindi meditare bene prima di farsi bannare: la permanenza e l'entrata futura nei gruppo Mozilla Italia verrà automaticamente negata.
+ Quindi notare bene: se si viene bannati in un gruppo, la permanenza e l'entrata futura negli altri gruppi Mozilla Italia sarà automaticamente negata.
 
 ## Cap.2 - Comportamento
  Il comportamento da tenere nei gruppi Mozilla Italia deve essere il più corretto possibile:
  - Non bisogna offendere gli altri utenti, ovvero avere rispetto di ciascuno
  - Utilizzare, possibilmente, la lingua **italiana** per le comunicazioni (fatta eccezione per il gruppo L10N)
- - Non utilizzare un linguaggio scurrile e/o fuori luogo
- - Non parlare di argomenti totalmente distaccati da Mozilla/Mozilla Italia o che, comunque, non interessi anche la nostra comunità.
+ - Non utilizzare un linguaggio scurrile o fuori luogo
+ - Evitare di andare fuori tema, parlando di argomenti non inerenti a Mozilla o che, comunque, non interessino in qualche modo la nostra comunità.
 
 ## Cap.3 - Parole/Frasi/Simboli vietati
  C'è un elenco preciso di parole/frasi/simboli vietati.
@@ -71,11 +71,11 @@ Gli utenti Admin possono, inoltre, _bloccare_ (bannare) un utente appena entrato
 
 Per procedere al ban (manuale) **non** bisogna utilizzare l'opzione di Telegram da "Gestisci gruppo". Infatti è necessario andare in chat privata con il bot, digitare "utente blocca *USERID*" e verrà automaticamente bannato da tutti i gruppi. Questo non significa che verrà cacciato subito, ma solo quando scriverà qualcosa (o se prova a entrare in altri gruppi comunitari).
 
- Per sbannare/sbloccare un utente, invece, **non** è sufficiente utilizzare l'opzione da chat privata. E' necessario, infatti, anche "sbloccare" l'utente desiderato dalle "Opzioni gruppo">"Utenti bloccati".
+ Per sbannare/sbloccare un utente, invece, **non** è sufficiente utilizzare l'opzione da chat privata. È necessario, infatti, anche "sbloccare" l'utente desiderato dalle "Opzioni gruppo">"Utenti bloccati".
  **Ricordare** che è necessario ANCHE sbloccare l'utente da chat privata, altrimenti rimane nella SpamList e, quando cercherà di entrare nei gruppi, verrà nuovamente cacciato.
 Per sbloccare un utente digitare in chat privata: "utente sblocca *USERID*".
 
 ## Cap.6 - Identificare gli utenti spam
-Queste sono solo alcuni indicazioni che potrebbero risultare, tuttavia, false in taluni casi.
+Queste sono solo alcune indicazioni che potrebbero risultare, tuttavia, false in taluni casi.
 In genere gli utenti spam hanno un nome utente "strano". Formato da lettere messe puramente a caso o da nomi stranieri. Molte volte, invece, **non hanno** username.
-In generale, gli utenti spam, non hanno immagine del profilo o è poco consona con il contesto, quindi molto esplicita.
+In generale, gli utenti spam, non hanno immagine del profilo o è evidentemente esplicita.
