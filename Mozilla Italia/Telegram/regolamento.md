@@ -12,7 +12,7 @@ Versione: 1.2 del 15-04-2018
 -----------------------------
 ## Cap.1 - Per iniziare
  Mozilla Italia ti dà il benvenuto nei suoi gruppi e canali ufficiali.
- Puoi ottenere la lista aggiornata direttamente dal bot @MozItaBot > "/gruppi".
+ Puoi ottenere la lista aggiornata direttamente dal bot @MozItaBot > `/gruppi`.
  **È consigliato vivamente impostare un username e un’immagine del profilo.**
 
  Appena si entra in un gruppo (solo nel *primo*) di Mozilla Italia si riceve un messaggio di benvenuto, nel quale viene chiesto di "Mostrare il Regolamento". Prima di mostrarlo **non** sarà possibile inviare alcun tipo di messaggio poiché ciascuno di essi verrà automaticamente eliminato.
@@ -64,12 +64,12 @@ Versione: 1.2 del 15-04-2018
 ## Cap.4 - Per gli utenti verificati
  Chiunque è un utente verificato (ovvero che può inviare qualunque tipo di messaggio), può verificare l'identità degli altri utenti non ancora verificati.
  **Notare**: non bisogna confermare ogni utente "a caso"; infatti, prima è necessario verificare la sua identità, ovvero verificare che non sia un utente spam.
-Per alcuni consigli su come identificare un utente spam, in generale, leggere il Cap.6.
+Per alcuni consigli su come identificare un utente spam, in generale, leggere il Cap.7.
 Se non si è sicuri dell'identità dell'utente **non** confermarlo, piuttosto lasciare che gli admin facciano ulteriori "indagini" (taggare un amministratore per non far "perdere" il messaggio di benvenuto dell'utente).
 
 ## Cap.5 - Per gli admin
  Gli admin, (attualmente @Sav22999, @Mte90, @mone27, @dag7dev, @Gioxx), possono anche gestire il bot in chat privata.
- Per ottenere tutti i comandi digitare */help* direttamente in chat privata @mozita_antispam_bot.
+ Per ottenere tutti i comandi digitare `/help` direttamente in chat privata @mozita_antispam_bot.
 
 Gli utenti Admin possono, inoltre, _bloccare_ (bannare) un utente appena entrato in un gruppo semplicemente facendo clic su **Blocca utente**, relativo al messaggio di benvenuto di quell’utente.
 
